@@ -1,8 +1,8 @@
 <script setup>
-import AnswerDemo from "./components/answerDemo.vue";
+import ToDoList from "./components/ToDoList.vue";
 </script>
 
 <template>
-  <answer-demo></answer-demo>
+  <ToDoList></ToDoList>
 </template>
 
